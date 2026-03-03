@@ -161,3 +161,19 @@
 .portfolio{
     margin: 300px 90px 120px 90px;
 }
+/* subscribe style */
+.subscribe{
+    text-align: center;
+    font-family: Inter;
+    background-color: rgba(255, 0, 0, 0.05);
+}
+.add{
+    display: flex;
+    padding: 0px 336px 80px 336px;
+    justify-content: center;
+}
+.in{
+    padding: 25px 200px 25px 30px;
+    border-radius: 50px;
+    border: none;
+}
