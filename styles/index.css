@@ -157,6 +157,7 @@
 .h{
     color: #FF0000;
 }
-.holiday-img-container{
-    /* border: 2px solid red; */
+/* portfolio style */
+.portfolio{
+    margin: 300px 90px 120px 90px;
 }
