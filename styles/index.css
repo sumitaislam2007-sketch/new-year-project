@@ -24,11 +24,13 @@
     font-size: 48px;
 }
 /* banner style */
+header{
+    /* margin: 120px 0px ; */
+}
 .banner{
     font-family: Merriweather;
     width: 1320px;
     height: 600px;
-    margin: 50px 80px;
 }
 .banner-content{
     padding: 100px 344px;
