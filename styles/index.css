@@ -143,3 +143,20 @@
     font-size: 48px;
     color: #FF0000;
 }
+/* holiday style */
+.holiday{
+    height: 986px;
+    margin: 0px 90px 120px 90px;
+    font-family: Inter;
+    text-align: center;
+}
+.holiday-header{
+    font-size: 72px;
+    color: #070211;
+}
+.h{
+    color: #FF0000;
+}
+.holiday-img-container{
+    /* border: 2px solid red; */
+}
