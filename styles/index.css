@@ -4,6 +4,25 @@
 /* font-family: "Inter", sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+/* shared style */
+.marginTB{
+    margin: 20px 0px;
+}
+.section-description{
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(7, 2, 17, 0.6);
+}
+.section-subtitle{
+    color: #FF0000;
+    font-weight: 500;
+    font-size: 24px;
+}
+.section-title{
+    color: #070211;
+    font-weight: bold;
+    font-size: 48px;
+}
 /* banner style */
 .banner{
     font-family: Merriweather;
@@ -41,16 +60,7 @@
     font-weight: bold;
     font-size: 88px;
 }
-.discount-subtitle{
-    color: #FF0000;
-    font-weight: 500;
-    font-size: 24px;
-}
-.discount-title{
-    color: #070211;
-    font-weight: bold;
-    font-size: 48px;
-}
+
 .discount img{
     width: 100%;
     height: 90%;
@@ -110,4 +120,26 @@
     border: none;
     border-radius: 8px;
     padding: 16px 32px;
+}
+/* best offer */
+.best-offer{
+    height: 463px;
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+    margin: 0px 90px 120px 90px;
+    gap: 100px;
+}
+.offers{
+    width: 33%;
+}
+.offers-img{
+    border: 15px solid #FF0000;
+    border-radius: 250px;
+    padding: 25px;
+}
+.year{
+    font-weight: 700;
+    font-size: 48px;
+    color: #FF0000;
 }
